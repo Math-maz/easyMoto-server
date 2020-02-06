@@ -1,0 +1,10 @@
+{
+  "name": "easyMoto_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matheus Araujo",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.8.11"
+  }
+}
